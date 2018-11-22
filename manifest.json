@@ -8,5 +8,6 @@
   "description": "Prometheus exporter for the ArangoDB statistics",
   "license": "MIT",  
   "main": "index.js",
+  
   "lib": "lib"
 }
